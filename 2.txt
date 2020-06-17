@@ -1,2 +1,2 @@
-hello guru
+this is devops training hello guru
 
